@@ -27,7 +27,7 @@ const Body = () => {
   }
   return (
     <div className="p-3">
-      <div className="flex">
+      <div className="flex justify-center">
         <div >
           <input
           className="rounded-md border-solid border-2 border-indigo-300"
